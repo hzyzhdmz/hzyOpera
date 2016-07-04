@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hzyOpera:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hzyOpera.war">
+      <element id="artifact" artifact-name="hzyOpera:war exploded" />
+    </root>
+  </artifact>
+</component>
